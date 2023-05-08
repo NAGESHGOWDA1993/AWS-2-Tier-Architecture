@@ -1,3 +1,3 @@
 # AWS-2-Tier-Architecture
 
-![image](https://user-images.githubusercontent.com/109476085/236838691-798b14cc-c58c-4a62-9d8c-6caeff41460f.png)
+![image](https://user-images.githubusercontent.com/109476085/236839311-90a3bfb8-37bd-47e5-9ba6-8ccc6a275067.png)
