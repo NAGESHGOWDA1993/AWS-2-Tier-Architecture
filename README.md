@@ -1,2 +1,3 @@
 # AWS-2-Tier-Architecture
-https://github.com/NAGESHGOWDA1993/AWS-2-Tier-Architecture/blob/master/AWS-2-Tier-Architecture%20(1).html
+
+![image](https://user-images.githubusercontent.com/109476085/236838691-798b14cc-c58c-4a62-9d8c-6caeff41460f.png)
